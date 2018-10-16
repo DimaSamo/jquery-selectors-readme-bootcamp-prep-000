@@ -11,6 +11,6 @@ function ninjaBabySelector(){
   return $('#baby-ninja')
 }
 
-function divSelectr(){
+function divSelector(){
   return $('div.pics')
 }
